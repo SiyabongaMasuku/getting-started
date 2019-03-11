@@ -32,6 +32,7 @@ This repository contains files, tools, and instructions on how to get started wi
 * http://codecademy.com  <-- another source for free and paid courses    
 * Quora (particularly [this](https://www.quora.com/Learning-to-Program/What-are-the-best-resources-sites-books-or-tutorials-for-learning-programming) question) <-- excellent resource for where and how to learn programming
 * [E-books](https://drive.google.com/folderview?id=0B6K2B2YjelHvOTFfQVlWSHJQOG8&usp=sharing)
-
+* YouTube Tutorial Video 1: [Intro to Git/Github](https://www.youtube.com/watch?v=PJhN_8MNgF4) by [Olmo Maldonado](https://github.com/ibolmo)
+* YouTube Tutorial Video 2: [Git and GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) by Traversy Media 
 <b>Resources</b>
 • http://foift.org/resources/foi-hotline/ <-- Pro bono lawyers for help with Public Information Requests
